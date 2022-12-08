@@ -1,0 +1,11 @@
+a {
+  text-decoration: none;
+  /* color: black; */
+}
+body {
+  background-image: url("./assets/back7.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  background-color: black;
+}

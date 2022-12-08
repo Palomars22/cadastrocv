@@ -1,0 +1,59 @@
+{
+  "person": [
+    {
+      "id": 1,
+      "name": "Pedro",
+      "lastname": "Santos",
+      "email": "pedro@gmail.com",
+      "cpf": "222.222.222-22",
+      "phone": "51 3333-3333",
+      "genre": "masculino",
+      "text": "novo no mercado",
+      "birthday": "2022-10-11"
+    },
+    {
+      "id": 2,
+      "name": "Mariana",
+      "lastname": "Lima",
+      "email": "lima@gmail.com",
+      "cpf": "222.222.222-22",
+      "phone": "51 3333-3333",
+      "genre": "feminino",
+      "text": "velha no mercado",
+      "birthday": "2000-08-11"
+    },
+    {
+      "birthday": "2021-12-23",
+      "cpf": "222.222.222-22",
+      "phone": "51 3333-3333",
+      "text": "56565",
+      "genre": "masculino",
+      "email": "novo@gmail.com",
+      "lastname": "novo",
+      "name": "novo",
+      "id": 3
+    },
+    {
+      "birthday": "2021-12-23",
+      "cpf": "222.222.222-22",
+      "phone": "51 3333-3333",
+      "text": "novinhio",
+      "genre": "masculino",
+      "email": "ds@ge.com",
+      "lastname": "dsd",
+      "name": "dsds",
+      "id": 4
+    },
+    {
+      "name": "tete",
+      "lastname": "TETE",
+      "email": "tete@gmail.com",
+      "phone": "51 99999-9999",
+      "cpf": "888.8888.888-88",
+      "genre": "feminino",
+      "text": "sem processos",
+      "birthday": "2021-12-23",
+      "id": 6
+    }
+  ]
+}
