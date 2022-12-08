@@ -1,6 +1,6 @@
 #   Cadastro de Currículos
 
-Formulário para cadastro de currículos com validação,listagem de currículos cadastrados, com a possibilidade de exportar npme remover currículos.
+Formulário para cadastro de currículos com validação,listagem de currículos cadastrados, com a possibilidade de exportar e remover currículos.
 
 ## Instalar todos pacotes necessários
 
